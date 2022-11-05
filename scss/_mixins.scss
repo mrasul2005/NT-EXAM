@@ -1,0 +1,37 @@
+.mixins__img_assoaiy {
+    display: flex;
+}
+
+.bacgraund {
+    height: 700px;
+    background-image: url(/img/3.svg);
+    background-color: #073d4e;
+}
+
+.img__mixins {
+    img {
+        width: 540px;
+        margin-top: 120px;
+    }
+}
+
+.mixins_logo {
+    margin-top: 192px;
+    margin-bottom: 40px;
+}
+
+.mixins_paragref {
+    color: #fff;
+    margin-bottom: 40px;
+    width: 530px;
+}
+
+.compane__href {
+    margin-top: -15px;
+    margin-bottom: 30px;
+
+    a {
+        color: #aabfc6;
+        text-decoration: none;
+    }
+}
